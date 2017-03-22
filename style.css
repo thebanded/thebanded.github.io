@@ -88,15 +88,24 @@ div.collapsed, div.collapsing, div.collapse
   padding: 15px .6em;
 }
 
+.ft-46
+{
+  font-size: 26px;
+}
+
 .mg-0
 {
   margin: 0;
 }
 
+.ht-40
+{
+  height: 60px;
+}
+
 .bg-begin
 {
   background: #1BA334;
-  border-color: #ff0 transparent transparent;
 }
 
 .bg-remnant
