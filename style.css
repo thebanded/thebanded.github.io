@@ -83,6 +83,12 @@ div.collapsed, div.collapsing, div.collapse
   color: white;
 }
 
+.no-bord
+{
+  border: none;
+  border-radius: 0;
+}
+
 .pv-15
 {
   padding: 15px .6em;
