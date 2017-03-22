@@ -1,0 +1,172 @@
+body
+{
+  background-color: black;
+  height: auto;
+}
+
+.navbar-inverse
+{
+  background-color: rgba(67, 67, 67, 0.5) !important;
+  background-image: transparent !important;
+  border-color: rgba(255, 255, 205, 0.5) !important;
+  box-shadow: none !important;
+}
+
+.center
+{
+  text-align: center;
+}
+
+.text-white
+{
+  color: white;
+}
+
+.chapter-image
+{
+  width: 100%;
+}
+
+.splash-text
+{
+  margin-top: 140px;
+  font-size: 40px;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.top
+{
+  display: block;
+  background-image: url("https://wallpaperscraft.com/image/halo_master_chief_spartan_halo_3_102135_3840x2160.jpg");
+  background-size: cover;
+  width: 100% !important;
+  height: 80vh;
+}
+
+.bottom
+{
+  height: 70vh;
+}
+
+.button
+{
+  display: inline-block;
+  position: relative;
+  padding: .8em 1.4em;
+  min-width: 15em;
+  border: none;
+}
+
+.arrow
+{
+  color: white;
+  margin-top: 3%;
+  background-color: #FE5F55;
+  font-size: 18px;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.arrow:hover
+{
+  background-color: #f41101;
+}
+
+.news-feed
+{
+  padding: .6em 0;
+  font-size: 46px;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+div.collapsed, div.collapsing, div.collapse
+{
+  color: white;
+}
+
+.pv-15
+{
+  padding: 15px .6em;
+}
+
+.mg-0
+{
+  margin: 0;
+}
+
+.bg-begin
+{
+  background: #1BA334;
+  border-color: #ff0 transparent transparent;
+}
+
+.bg-remnant
+{
+  background: #31AD1A;
+}
+
+.bg-prolif
+{
+  background: #3FA619;
+}
+
+.bg-ruin
+{
+  background: #699115;
+}
+
+.bg-reprisal
+{
+  background: #858212;
+}
+
+.bg-october
+{
+  background: #937B10;
+}
+
+.bg-second_col
+{
+  background: #AF6D0E;
+}
+
+.mb-45
+{
+  margin-bottom: 45px;
+}
+
+h2
+{
+  padding: .2em 1em;
+}
+
+#test
+{
+  border-color: transparent transparent #ff0;
+  border-style:solid;
+  border-width:20px;
+}
+
+.news-image
+{
+  margin-top: -1%;
+}
+
+.fit-news-img
+{
+  width: 190px;
+}
+
+.mt-45
+{
+  margin-top: 45px;
+}
+
+.mt-60
+{
+  margin-top: 60px;
+}
+
+.mt-75
+{
+  margin-top: 75px;
+}
